@@ -1,4 +1,4 @@
-### 🏋️ ежедневная практика · daily practice
+### ежедневная практика · daily practice
 
 каждый день решаю задачу по sql или pandas на данных спортивного магазина. 30 задач по sql и 15 по pandas, от простых выборок до оконных функций и rfm-анализа, решения проверяются автоматически
 *one sql or pandas task a day on a sports shop dataset: 30 sql and 15 pandas tasks, from simple selects to window functions and rfm, auto-checked*
